@@ -15,6 +15,7 @@
 <a href="https://github.com/Robert-Kauth/Antinote">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robert-Kauth&repo=Antinote" />
 </a>
+
 <a href="https://github.com/Robert-Kauth/DepthChart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robert-Kauth&repo=DepthChart" />
 </a>
@@ -22,6 +23,7 @@
 <a href="https://github.com/anndonnelly/Speak-Easy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anndonnelly&repo=Speak-Easy" />
 </a>
+
 <a href="https://github.com/mkoerner570/goodreads-express-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkoerner570&repo=goodreads-express-project" />
 </a>
