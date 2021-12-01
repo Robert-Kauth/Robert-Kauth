@@ -11,3 +11,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Kauth)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Robert-Kauth wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RobKauth)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Robert-Kauth/Antinote">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robert-Kauth&repo=Antinote" />
+</a>
+<a href="https://github.com/Robert-Kauth/DepthChart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robert-Kauth&repo=DepthChart" />
+</a>
+
+<a href="https://github.com/anndonnelly/Speak-Easy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anndonnelly&repo=Speak-Easy" />
+</a>
+<a href="https://github.com/mkoerner570/goodreads-express-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkoerner570&repo=goodreads-express-project" />
+</a>
