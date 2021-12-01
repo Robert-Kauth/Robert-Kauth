@@ -8,6 +8,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkoerner570&repo=goodreads-express-project&theme=solarized-dark)](https://github.com/mkoerner570/goodreads-express-project)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Kauth&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Kauth&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Robert-Kauth wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RobKauth&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert-Kauth wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RobKauth&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
