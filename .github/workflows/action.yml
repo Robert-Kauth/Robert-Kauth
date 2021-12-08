@@ -16,7 +16,7 @@ jobs:
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           user: Robert-Kauth
-          committer_gist: "Robert-Kauth/Metrics.svg"
+          committer_gist: "https://gist.github.com/Robert-Kauth/6b6284d2165fb668c0a51728fced9346"
           base: header, repositories                     # Only display "header" and "repositories" sections
           repositories: 100                              # Query only last 100 repositories
           repositories_batch: 25                         # Query repositories 25 by 25 (lower this to avoid API timeouts)
