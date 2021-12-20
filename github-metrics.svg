@@ -1754,7 +1754,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 35 edited files from 24 commits over last 6 days
+            estimation from 35 edited files from 24 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -2007,9 +2007,9 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3389830508474576 1.7,4.338983050847458 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.6610169491525415)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.338983050847458 0,3.3389830508474576 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3389830508474576 1.7,4.338983050847458 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.338983050847458 0,3.3389830508474576 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3389830508474576 1.7,4.338983050847458 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.4576271186440675)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
