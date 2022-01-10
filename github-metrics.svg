@@ -387,7 +387,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 136 edited files from 93 commits over last 7 days</small>
+                <small>estimation from 126 edited files from 92 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -405,7 +405,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>14.2 kB</div>
+                                <div>13.5 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -425,7 +425,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.2 characters per line of code written</li>
+                        <li>Has approximately 31.6 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -545,21 +545,6 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">Python</span>
-                            <div class="bar" style="width: 56.18635738156084%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">70%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">CSS</span>
-                            <div class="bar" style="width: 23.601336740711616%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">30%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.21230587772754078%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">0%</span>
-                        </div>
                     </div>
                 </section>
             </div>
@@ -1650,12 +1635,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">depthChart</span>
-                                <div class="bar" style="width: 73.048%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 73.11200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">91%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 6.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.728000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
