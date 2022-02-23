@@ -401,14 +401,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 203 edited files from 18 commits over last 6 days</small>
+                <small>estimation from 203 edited files from 18 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.6441171464151" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="403.6441171464151" y="0" width="56.3558828535849" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.7237763801787" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="403.7237763801787" y="0" width="56.27622361982126" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -420,8 +420,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>97.9 kB</div>
-                                <div>87.75%</div>
+                                <div>98.1 kB</div>
+                                <div>87.77%</div>
                             </small>
                         </div>
                     </section>
@@ -435,7 +435,7 @@
                             </div>
                             <small>
                                 <div>13.6 kB</div>
-                                <div>12.25%</div>
+                                <div>12.23%</div>
                             </small>
                         </div>
                     </section>
@@ -574,22 +574,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 65.97981392992028%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 65.96970785934361%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">82%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 6.445872932636504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.444885623899097%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 5.673310904366579%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.672441928281501%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">7%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 1.9010022330766374%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.9129645884757904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
