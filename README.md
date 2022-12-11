@@ -1,4 +1,4 @@
-I am an EMT that specialized in trauma and resuscitation reborn as a full stack software engineer.
+I am an EMT that specialized in trauma and resuscitation reborn as an associate Dev-Ops Engineer at Nothrop Grumman.
 
 ![Metrics](https://github.com/Robert-Kauth/Robert-Kauth/blob/main/github-metrics.svg)
 
